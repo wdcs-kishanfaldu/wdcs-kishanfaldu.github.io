@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\smart-on-fhir-tutorial",
+    "\\smart-on-fhir-tutorial\\example-smart-app"
   ],
-  "SelectedNode": "\\D:\\Projects\\wdcs-kishanfaldu.github.io",
   "PreviewInSolutionExplorer": false
 }
